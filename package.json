@@ -1,0 +1,7 @@
+{
+  "name": "next-api-gateway",
+  "version": "1.0.0",
+  "description": "Standard API gateway handler for internal routing",
+  "private": true,
+  "license": "MIT"
+}
